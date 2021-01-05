@@ -1,0 +1,2432 @@
+﻿$axure.loadCurrentPage({
+  "url":"车辆管理-有接口.html",
+  "generationDate":new Date(1554888134604.25),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"sfz",
+"sfz_n"],
+  "page":{
+    "packageId":"9f7bf88fa79d49018eb23c95a6e5cee0",
+    "type":"Axure:Page",
+    "name":"车辆管理-有接口",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"dc5e093683474610a18c8675ddef5bdb",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "horizontalAlignment":"center",
+            "verticalAlignment":"bottom",
+            "location":{
+              "x":19,
+              "y":47},
+            "size":{
+              "width":70,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"12846b5673f44fc287f4a9b32c91d88f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"bottom",
+                "location":{
+                  "x":19,
+                  "y":47},
+                "size":{
+                  "width":70,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"1663bf6d6f444259808c1fdf720d9df1",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":109,
+              "y":42},
+            "size":{
+              "width":180,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"bdc3a4ce8d79421a9bd316424e7699dd",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "horizontalAlignment":"center",
+            "verticalAlignment":"bottom",
+            "location":{
+              "x":19,
+              "y":86},
+            "size":{
+              "width":70,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"214e9677020c4136bda10f052cf6330d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"bottom",
+                "location":{
+                  "x":19,
+                  "y":86},
+                "size":{
+                  "width":70,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"15ecbb560a80462d95254d3d6fa0175d",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":109,
+              "y":81},
+            "size":{
+              "width":180,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"e66e6706f4f14756809c742a75212fac",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":106,
+              "y":218},
+            "size":{
+              "width":92,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"e794dd6684eb467fb545455487e39991",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":200,
+              "y":218},
+            "size":{
+              "width":92,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"3c0d6884c15c438695250cd334191ced",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "horizontalAlignment":"center",
+            "verticalAlignment":"bottom",
+            "location":{
+              "x":19,
+              "y":124},
+            "size":{
+              "width":70,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3e862985cd0944e8bcc461fccb50d88b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"bottom",
+                "location":{
+                  "x":19,
+                  "y":124},
+                "size":{
+                  "width":70,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"7b688f888e47448ca4209ea2880ced6e",
+          "label":"",
+          "type":"comboBox",
+          "styleType":"comboBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":109,
+              "y":121},
+            "size":{
+              "width":180,
+              "height":22}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"99f7d04a11dc4421baf48a2e452ea445",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFF6600},
+            "size":{
+              "width":305,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a0200a2e6d8b4e9187bcbda53f4a1e18",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFF6600},
+                "size":{
+                  "width":305,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/分拣位绑板-rf/u6.png"}},
+{
+          "id":"fead83fced6f4b7f877252c0ab8cbdd2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Black Oblique', 'Arial'",
+            "fontSize":"16px",
+            "fontWeight":"900",
+            "fontStyle":"oblique",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":4,
+              "y":5},
+            "size":{
+              "width":120,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b9276a05bb7740d9bf9a881f5721b3f7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Black Oblique', 'Arial'",
+                "fontSize":"16px",
+                "fontWeight":"900",
+                "fontStyle":"oblique",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":4,
+                  "y":5},
+                "size":{
+                  "width":120,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"d4f61c4adbf44ba0b8bd61663d854585",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":124,
+              "y":7},
+            "size":{
+              "width":181,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cc64f55543d348338121a0ab7ce35be6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "fontWeight":"700",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":124,
+                  "y":7},
+                "size":{
+                  "width":181,
+                  "height":18}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"1d8aad400ebf4665b7dafc45eb828148",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFF6600},
+            "location":{
+              "x":1,
+              "y":451},
+            "size":{
+              "width":308,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bc6d767ba8844e7dae9bc455193f9320",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFF6600},
+                "location":{
+                  "x":1,
+                  "y":451},
+                "size":{
+                  "width":308,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/分拣位绑板-rf/u12.png"}},
+{
+          "id":"2caa499bacf644f99bb61b70d66682f0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Black Oblique', 'Arial'",
+            "fontSize":"16px",
+            "fontWeight":"900",
+            "fontStyle":"oblique",
+            "horizontalAlignment":"right",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":144,
+              "y":457},
+            "size":{
+              "width":162,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"40c8813a59e944b0a11b3dd5d5dcd974",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Black Oblique', 'Arial'",
+                "fontSize":"16px",
+                "fontWeight":"900",
+                "fontStyle":"oblique",
+                "horizontalAlignment":"right",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":144,
+                  "y":457},
+                "size":{
+                  "width":162,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"e2ad4722a5b641bca0c48f6d50b37ac0",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":106,
+              "y":163},
+            "size":{
+              "width":92,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"b4de773f4cb54b56ad02490493f5a570",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":198,
+              "y":163},
+            "size":{
+              "width":92,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"451e123b958b4e2bbe0d9039bd2c5759",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFFFFCC99},
+{
+                  "color":0xFFFFCC99},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":374,
+              "y":10},
+            "size":{
+              "width":275,
+              "height":34}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5946592d54544835881ef119df23ca4d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFFFCC99},
+{
+                      "color":0xFFFFCC99},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":374,
+                  "y":10},
+                "size":{
+                  "width":275,
+                  "height":34}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/车辆管理-有接口/u23.png"}},
+{
+          "id":"1f4a22e392094778adc2d358fafe9179",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFFFFCC99},
+{
+                  "color":0xFFFFCC99},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":374,
+              "y":58},
+            "size":{
+              "width":275,
+              "height":34}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"47993db47c3f40418bf913734f927878",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFFFCC99},
+{
+                      "color":0xFFFFCC99},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":374,
+                  "y":58},
+                "size":{
+                  "width":275,
+                  "height":34}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/车辆管理-有接口/u23.png"}},
+{
+          "id":"82926f85a6cd4e82b6952a6162f5969f",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFFFFCC99},
+{
+                  "color":0xFFFFCC99},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":399,
+              "y":105},
+            "size":{
+              "width":226,
+              "height":34}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"797f55b253dd440490cc4d891501f5ea",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFFFCC99},
+{
+                      "color":0xFFFFCC99},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":399,
+                  "y":105},
+                "size":{
+                  "width":226,
+                  "height":34}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/车辆卸车-无接口/u24.png"}},
+{
+          "id":"13f282ceb0a1441f8955491dd6287615",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFFFFCC99},
+{
+                  "color":0xFFFFCC99},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":350,
+              "y":153},
+            "size":{
+              "width":324,
+              "height":44}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4f07ce1b9cbb4a3c89f7df60d7ed5695",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFFFCC99},
+{
+                      "color":0xFFFFCC99},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":350,
+                  "y":153},
+                "size":{
+                  "width":324,
+                  "height":44}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/车辆管理-有接口/u29.png"}},
+{
+          "id":"39b45b69e9fe427d99aa06e4f18179fe",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFFFFCC99},
+{
+                  "color":0xFFFFCC99},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":399,
+              "y":213},
+            "size":{
+              "width":226,
+              "height":34}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9784412cc023487e9b2ce42457726683",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFFFCC99},
+{
+                      "color":0xFFFFCC99},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":399,
+                  "y":213},
+                "size":{
+                  "width":226,
+                  "height":34}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/车辆卸车-无接口/u24.png"}},
+{
+          "id":"d679e45cf16c4abd9c30215dbff96cc7",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":512,
+              "y":44},
+            "borderWidth":"2",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9f1b1261a27147afaf0af8c3129f3321",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":512,
+                  "y":44},
+                "borderWidth":"2",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000},
+                "linePattern":"dashed"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"53b50a1e1b4a4a8ab4faa7af32cc2a8d",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":512,
+              "y":92},
+            "borderWidth":"2",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2d9f02406f494b998e940c4d3b939aa5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":512,
+                  "y":92},
+                "borderWidth":"2",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000},
+                "linePattern":"dashed"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"e00b38794f3f4fd0b40a3d3fa9a302f6",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":512,
+              "y":139},
+            "borderWidth":"2",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"97af27eee15d4ec189d3a2a9e87e7164",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":512,
+                  "y":139},
+                "borderWidth":"2",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000},
+                "linePattern":"dashed"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"282dc1feabaa4a4586bfd5dd640e74ab",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":512,
+              "y":197},
+            "borderWidth":"2",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3a5df495402f453dba1340e02ea6d734",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":512,
+                  "y":197},
+                "borderWidth":"2",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000},
+                "linePattern":"dashed"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"5e8149dcb7ff4855a08f6b59735d6df3",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":374,
+              "y":27},
+            "borderWidth":"2",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4b9e22bf195b4043a489b8b1bd8c7ed7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":374,
+                  "y":27},
+                "borderWidth":"2",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000},
+                "linePattern":"dashed"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"9ec7861f815e4479aa869fe4869d5b15",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":374,
+              "y":75},
+            "borderWidth":"2",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8aa89d1cc0814f9f9271cdc0c3dc009f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":374,
+                  "y":75},
+                "borderWidth":"2",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000},
+                "linePattern":"dashed"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"4317ddd484b04208ab1ef8bbe20b40b2",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":399,
+              "y":122},
+            "borderWidth":"2",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9781d99f95794841a5accf69cea3d1ad",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":399,
+                  "y":122},
+                "borderWidth":"2",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000},
+                "linePattern":"dashed"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"1739e01a8c1b44b6ae963396af350552",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":350,
+              "y":175},
+            "borderWidth":"2",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3eee82d9bb584cc7a523854ab5c2a9ab",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":350,
+                  "y":175},
+                "borderWidth":"2",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000},
+                "linePattern":"dashed"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"1db92475c146492390393163b5d6b371",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":399,
+              "y":230},
+            "borderWidth":"2",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"31f25628a8b14064bd7db32f43d6f62e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":399,
+                  "y":230},
+                "borderWidth":"2",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000},
+                "linePattern":"dashed"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"e6764e45286b482595e1616b1687fa63",
+          "label":"粤",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":61,
+              "y":251},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"4620289e009c468c82cc73c709267e30",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":61,
+              "y":293},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"d86da4953ae04afbb74c178487accd53",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":91,
+              "y":293},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"0fcba524a2984110bc3cae7d32f54f35",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":124,
+              "y":293},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"b8a3ab4058004f9d8a6d42cdf12bcc86",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":154,
+              "y":293},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"0da899fd9d7045f2ba4ff83e81d11f87",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":185,
+              "y":293},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"49028ca149a4439b9506ce13638ae915",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":219,
+              "y":293},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"ecadd97732e44f9b8b1570feac102de0",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":61,
+              "y":314},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"163319666ef7450894067e349995d1eb",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":91,
+              "y":314},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"05380068cd9f43728af8da968b96f70d",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":124,
+              "y":314},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"8c61a410771a4c3f844f8a8993654385",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":154,
+              "y":314},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"eef671eb8df140449159dd07eb6d0239",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":185,
+              "y":314},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"628ba76ba6bb4b51a46af1e21182193f",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":219,
+              "y":314},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"53d4ad4d5ef740fd9064abb4421973b7",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":46,
+              "y":336},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"e27df771e0f644b5b5a840bd685b6ac6",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":79,
+              "y":336},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"e0fed3102e764bbe98288c954e0204db",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":110,
+              "y":336},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"4bdca6f396e24b629db8800b9f0790af",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":140,
+              "y":336},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"55f66b96886e45c5865b7afb2bc4979b",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":172,
+              "y":336},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"657efcfe4b6f489cb8023112b06fc643",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":205,
+              "y":336},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"23e04520864340d7ba75369262a8e0e6",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":91,
+              "y":251},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"7c97dd07904a4d3d9397541ad1c080e3",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":124,
+              "y":251},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"4b5a4cd9175846ee9b0342b78763c04a",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":154,
+              "y":251},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"5e9538aa7bed40b2a2acaf4c279e7068",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":185,
+              "y":251},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"ca8f17ef293d4d619f1daffee78ba165",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":219,
+              "y":251},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"854f3cc5e7bc40e6ac7db4c112f922eb",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":61,
+              "y":272},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"5d4db3533b0a4a6e9065a8fb5da716bd",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":91,
+              "y":272},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"b9ca10ead0ac4e23adb31ce9ec887aa9",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":124,
+              "y":272},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"1afbd714d3e14e0b9e6954ceedc915fc",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":154,
+              "y":272},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"8d73b4eafdca487aba29d1370cd413e5",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":185,
+              "y":272},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"50b6f0117912473c802b8a8072c4b61c",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":219,
+              "y":272},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"11362175fa964450891b7a320452a547",
+          "label":"青 ",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":234,
+              "y":336},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"39ce671eb44d47faa9bd95835c50cbf3",
+          "label":"0",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":4,
+              "y":365},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"de06b19ded954192b5ea0a0529feffc9",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":4,
+              "y":433},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"7d0e0fb73f9b48d599d52f25a6feeaf9",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":39,
+              "y":433},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"1b0473a6c51c47788615e4d07f779cc6",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":73,
+              "y":433},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"e63e204863e543d1b54dfdd741d0b706",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":105,
+              "y":433},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"c4146c0408b0456195fec428ea144eee",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":139,
+              "y":433},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"de027d880e114e6f82193b5d6576d4a5",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":173,
+              "y":433},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"f8b406f7f80a4563b279843b58de406a",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":34,
+              "y":365},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"3c6054ac23d2436683d786f51bdd9137",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":64,
+              "y":365},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"6db0ffc762974e82a2f891207b8bd030",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":94,
+              "y":365},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"e8a07d0883c34eae98a59ed4320bfa8f",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":125,
+              "y":365},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"7f4d450e9b5a4b9fa579e492f1a2f545",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":157,
+              "y":365},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"6473361068e643ac8e75fa9f86a256b5",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":185,
+              "y":365},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"c566e17081cb42a0896a35cb03e30f39",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":4,
+              "y":389},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"f450ebffa0d348249a69a96e655c39d7",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":39,
+              "y":389},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"59932249e52444ea919032f662215e59",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":73,
+              "y":389},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"a280aca12f9943ec9d8ef860105be4e7",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":105,
+              "y":389},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"6e5beb6878944dd4941f3e9c961e7570",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":139,
+              "y":389},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"ef2a9fd2e66247599a2b188d4982891f",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":173,
+              "y":389},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"0638b3129165443d85abc9be726e69d0",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":4,
+              "y":411},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"6c64f1248e0c4e118eb45b2ae82c94c8",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":39,
+              "y":411},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"5ac5a9e611b64580a25e1c899862578e",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":73,
+              "y":411},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"b58b596a2d2642fe9abeee0ca99dc0ba",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":105,
+              "y":411},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"bce915176dcf4410a193616ea48bb528",
+          "label":"空白",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":139,
+              "y":411},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"3487496ed1db460dbe675d79d865e96c",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":173,
+              "y":411},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"4c7deeb4f1ec4980a42d6778d2296b88",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":207,
+              "y":433},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"e8f4aedd2d8241429b7ef7b5825e67f8",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":218,
+              "y":365},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"1cdb10bd5676432f9eee0880b5a7f844",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":246,
+              "y":365},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"435a60fe66d74f98a9edf5f027bf5d87",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":278,
+              "y":365},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"c832e1434004475e8dd3f043ca16fc4d",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":207,
+              "y":389},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"1805394ac8b04b0b8639c2bd92793bfc",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":242,
+              "y":389},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"a2f320738d2d43afa82deddb35edb078",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":207,
+              "y":411},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"692aae1465394150ab276fbf6751e841",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":242,
+              "y":411},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"b5d41ca7bf52472489dfd18917cfe32e",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":242,
+              "y":433},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"5e09bb5a73b14b10bbfc063356978db2",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":275,
+              "y":389},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"48c6cc7d4fe442058db9a189ee171e47",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":275,
+              "y":411},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"40dfcf0e4a6a456cb61ec0516273116c",
+          "label":"Z",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":275,
+              "y":433},
+            "size":{
+              "width":28,
+              "height":19}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"8c2e9c072c8746b782f0d616cee249c9",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":42,
+              "y":248},
+            "size":{
+              "width":225,
+              "height":111}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7988c3032fa24e53b8bf569bfc290aad",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":42,
+                  "y":248},
+                "size":{
+                  "width":225,
+                  "height":111}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/车辆管理-有接口/u119.png"}},
+{
+          "id":"b1ef820a45054465b02b225b60e5a130",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":0,
+              "y":362},
+            "size":{
+              "width":310,
+              "height":95}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9e9cda95bb1049448e935d21e45eedcf",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":0,
+                  "y":362},
+                "size":{
+                  "width":310,
+                  "height":95}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/车辆管理-有接口/u121.png"}},
+{
+          "id":"9e708982b5994c04a9226bda93025e68",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":310,
+              "y":410},
+            "borderWidth":"2",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"07f54ef3f3e0426a8c9e6e0c54b0d936",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":310,
+                  "y":410},
+                "borderWidth":"2",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000},
+                "linePattern":"dashed"},
+              "adaptiveStyles":{
+}}]}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "dc5e093683474610a18c8675ddef5bdb":{
+      "scriptId":"u0"},
+    "12846b5673f44fc287f4a9b32c91d88f":{
+      "scriptId":"u1"},
+    "1663bf6d6f444259808c1fdf720d9df1":{
+      "scriptId":"u2"},
+    "bdc3a4ce8d79421a9bd316424e7699dd":{
+      "scriptId":"u3"},
+    "214e9677020c4136bda10f052cf6330d":{
+      "scriptId":"u4"},
+    "15ecbb560a80462d95254d3d6fa0175d":{
+      "scriptId":"u5"},
+    "e66e6706f4f14756809c742a75212fac":{
+      "scriptId":"u6"},
+    "e794dd6684eb467fb545455487e39991":{
+      "scriptId":"u7"},
+    "3c0d6884c15c438695250cd334191ced":{
+      "scriptId":"u8"},
+    "3e862985cd0944e8bcc461fccb50d88b":{
+      "scriptId":"u9"},
+    "7b688f888e47448ca4209ea2880ced6e":{
+      "scriptId":"u10"},
+    "99f7d04a11dc4421baf48a2e452ea445":{
+      "scriptId":"u11"},
+    "a0200a2e6d8b4e9187bcbda53f4a1e18":{
+      "scriptId":"u12"},
+    "fead83fced6f4b7f877252c0ab8cbdd2":{
+      "scriptId":"u13"},
+    "b9276a05bb7740d9bf9a881f5721b3f7":{
+      "scriptId":"u14"},
+    "d4f61c4adbf44ba0b8bd61663d854585":{
+      "scriptId":"u15"},
+    "cc64f55543d348338121a0ab7ce35be6":{
+      "scriptId":"u16"},
+    "1d8aad400ebf4665b7dafc45eb828148":{
+      "scriptId":"u17"},
+    "bc6d767ba8844e7dae9bc455193f9320":{
+      "scriptId":"u18"},
+    "2caa499bacf644f99bb61b70d66682f0":{
+      "scriptId":"u19"},
+    "40c8813a59e944b0a11b3dd5d5dcd974":{
+      "scriptId":"u20"},
+    "e2ad4722a5b641bca0c48f6d50b37ac0":{
+      "scriptId":"u21"},
+    "b4de773f4cb54b56ad02490493f5a570":{
+      "scriptId":"u22"},
+    "451e123b958b4e2bbe0d9039bd2c5759":{
+      "scriptId":"u23"},
+    "5946592d54544835881ef119df23ca4d":{
+      "scriptId":"u24"},
+    "1f4a22e392094778adc2d358fafe9179":{
+      "scriptId":"u25"},
+    "47993db47c3f40418bf913734f927878":{
+      "scriptId":"u26"},
+    "82926f85a6cd4e82b6952a6162f5969f":{
+      "scriptId":"u27"},
+    "797f55b253dd440490cc4d891501f5ea":{
+      "scriptId":"u28"},
+    "13f282ceb0a1441f8955491dd6287615":{
+      "scriptId":"u29"},
+    "4f07ce1b9cbb4a3c89f7df60d7ed5695":{
+      "scriptId":"u30"},
+    "39b45b69e9fe427d99aa06e4f18179fe":{
+      "scriptId":"u31"},
+    "9784412cc023487e9b2ce42457726683":{
+      "scriptId":"u32"},
+    "d679e45cf16c4abd9c30215dbff96cc7":{
+      "scriptId":"u33"},
+    "9f1b1261a27147afaf0af8c3129f3321":{
+      "scriptId":"u34"},
+    "53b50a1e1b4a4a8ab4faa7af32cc2a8d":{
+      "scriptId":"u35"},
+    "2d9f02406f494b998e940c4d3b939aa5":{
+      "scriptId":"u36"},
+    "e00b38794f3f4fd0b40a3d3fa9a302f6":{
+      "scriptId":"u37"},
+    "97af27eee15d4ec189d3a2a9e87e7164":{
+      "scriptId":"u38"},
+    "282dc1feabaa4a4586bfd5dd640e74ab":{
+      "scriptId":"u39"},
+    "3a5df495402f453dba1340e02ea6d734":{
+      "scriptId":"u40"},
+    "5e8149dcb7ff4855a08f6b59735d6df3":{
+      "scriptId":"u41"},
+    "4b9e22bf195b4043a489b8b1bd8c7ed7":{
+      "scriptId":"u42"},
+    "9ec7861f815e4479aa869fe4869d5b15":{
+      "scriptId":"u43"},
+    "8aa89d1cc0814f9f9271cdc0c3dc009f":{
+      "scriptId":"u44"},
+    "4317ddd484b04208ab1ef8bbe20b40b2":{
+      "scriptId":"u45"},
+    "9781d99f95794841a5accf69cea3d1ad":{
+      "scriptId":"u46"},
+    "1739e01a8c1b44b6ae963396af350552":{
+      "scriptId":"u47"},
+    "3eee82d9bb584cc7a523854ab5c2a9ab":{
+      "scriptId":"u48"},
+    "1db92475c146492390393163b5d6b371":{
+      "scriptId":"u49"},
+    "31f25628a8b14064bd7db32f43d6f62e":{
+      "scriptId":"u50"},
+    "e6764e45286b482595e1616b1687fa63":{
+      "scriptId":"u51"},
+    "4620289e009c468c82cc73c709267e30":{
+      "scriptId":"u52"},
+    "d86da4953ae04afbb74c178487accd53":{
+      "scriptId":"u53"},
+    "0fcba524a2984110bc3cae7d32f54f35":{
+      "scriptId":"u54"},
+    "b8a3ab4058004f9d8a6d42cdf12bcc86":{
+      "scriptId":"u55"},
+    "0da899fd9d7045f2ba4ff83e81d11f87":{
+      "scriptId":"u56"},
+    "49028ca149a4439b9506ce13638ae915":{
+      "scriptId":"u57"},
+    "ecadd97732e44f9b8b1570feac102de0":{
+      "scriptId":"u58"},
+    "163319666ef7450894067e349995d1eb":{
+      "scriptId":"u59"},
+    "05380068cd9f43728af8da968b96f70d":{
+      "scriptId":"u60"},
+    "8c61a410771a4c3f844f8a8993654385":{
+      "scriptId":"u61"},
+    "eef671eb8df140449159dd07eb6d0239":{
+      "scriptId":"u62"},
+    "628ba76ba6bb4b51a46af1e21182193f":{
+      "scriptId":"u63"},
+    "53d4ad4d5ef740fd9064abb4421973b7":{
+      "scriptId":"u64"},
+    "e27df771e0f644b5b5a840bd685b6ac6":{
+      "scriptId":"u65"},
+    "e0fed3102e764bbe98288c954e0204db":{
+      "scriptId":"u66"},
+    "4bdca6f396e24b629db8800b9f0790af":{
+      "scriptId":"u67"},
+    "55f66b96886e45c5865b7afb2bc4979b":{
+      "scriptId":"u68"},
+    "657efcfe4b6f489cb8023112b06fc643":{
+      "scriptId":"u69"},
+    "23e04520864340d7ba75369262a8e0e6":{
+      "scriptId":"u70"},
+    "7c97dd07904a4d3d9397541ad1c080e3":{
+      "scriptId":"u71"},
+    "4b5a4cd9175846ee9b0342b78763c04a":{
+      "scriptId":"u72"},
+    "5e9538aa7bed40b2a2acaf4c279e7068":{
+      "scriptId":"u73"},
+    "ca8f17ef293d4d619f1daffee78ba165":{
+      "scriptId":"u74"},
+    "854f3cc5e7bc40e6ac7db4c112f922eb":{
+      "scriptId":"u75"},
+    "5d4db3533b0a4a6e9065a8fb5da716bd":{
+      "scriptId":"u76"},
+    "b9ca10ead0ac4e23adb31ce9ec887aa9":{
+      "scriptId":"u77"},
+    "1afbd714d3e14e0b9e6954ceedc915fc":{
+      "scriptId":"u78"},
+    "8d73b4eafdca487aba29d1370cd413e5":{
+      "scriptId":"u79"},
+    "50b6f0117912473c802b8a8072c4b61c":{
+      "scriptId":"u80"},
+    "11362175fa964450891b7a320452a547":{
+      "scriptId":"u81"},
+    "39ce671eb44d47faa9bd95835c50cbf3":{
+      "scriptId":"u82"},
+    "de06b19ded954192b5ea0a0529feffc9":{
+      "scriptId":"u83"},
+    "7d0e0fb73f9b48d599d52f25a6feeaf9":{
+      "scriptId":"u84"},
+    "1b0473a6c51c47788615e4d07f779cc6":{
+      "scriptId":"u85"},
+    "e63e204863e543d1b54dfdd741d0b706":{
+      "scriptId":"u86"},
+    "c4146c0408b0456195fec428ea144eee":{
+      "scriptId":"u87"},
+    "de027d880e114e6f82193b5d6576d4a5":{
+      "scriptId":"u88"},
+    "f8b406f7f80a4563b279843b58de406a":{
+      "scriptId":"u89"},
+    "3c6054ac23d2436683d786f51bdd9137":{
+      "scriptId":"u90"},
+    "6db0ffc762974e82a2f891207b8bd030":{
+      "scriptId":"u91"},
+    "e8a07d0883c34eae98a59ed4320bfa8f":{
+      "scriptId":"u92"},
+    "7f4d450e9b5a4b9fa579e492f1a2f545":{
+      "scriptId":"u93"},
+    "6473361068e643ac8e75fa9f86a256b5":{
+      "scriptId":"u94"},
+    "c566e17081cb42a0896a35cb03e30f39":{
+      "scriptId":"u95"},
+    "f450ebffa0d348249a69a96e655c39d7":{
+      "scriptId":"u96"},
+    "59932249e52444ea919032f662215e59":{
+      "scriptId":"u97"},
+    "a280aca12f9943ec9d8ef860105be4e7":{
+      "scriptId":"u98"},
+    "6e5beb6878944dd4941f3e9c961e7570":{
+      "scriptId":"u99"},
+    "ef2a9fd2e66247599a2b188d4982891f":{
+      "scriptId":"u100"},
+    "0638b3129165443d85abc9be726e69d0":{
+      "scriptId":"u101"},
+    "6c64f1248e0c4e118eb45b2ae82c94c8":{
+      "scriptId":"u102"},
+    "5ac5a9e611b64580a25e1c899862578e":{
+      "scriptId":"u103"},
+    "b58b596a2d2642fe9abeee0ca99dc0ba":{
+      "scriptId":"u104"},
+    "bce915176dcf4410a193616ea48bb528":{
+      "scriptId":"u105"},
+    "3487496ed1db460dbe675d79d865e96c":{
+      "scriptId":"u106"},
+    "4c7deeb4f1ec4980a42d6778d2296b88":{
+      "scriptId":"u107"},
+    "e8f4aedd2d8241429b7ef7b5825e67f8":{
+      "scriptId":"u108"},
+    "1cdb10bd5676432f9eee0880b5a7f844":{
+      "scriptId":"u109"},
+    "435a60fe66d74f98a9edf5f027bf5d87":{
+      "scriptId":"u110"},
+    "c832e1434004475e8dd3f043ca16fc4d":{
+      "scriptId":"u111"},
+    "1805394ac8b04b0b8639c2bd92793bfc":{
+      "scriptId":"u112"},
+    "a2f320738d2d43afa82deddb35edb078":{
+      "scriptId":"u113"},
+    "692aae1465394150ab276fbf6751e841":{
+      "scriptId":"u114"},
+    "b5d41ca7bf52472489dfd18917cfe32e":{
+      "scriptId":"u115"},
+    "5e09bb5a73b14b10bbfc063356978db2":{
+      "scriptId":"u116"},
+    "48c6cc7d4fe442058db9a189ee171e47":{
+      "scriptId":"u117"},
+    "40dfcf0e4a6a456cb61ec0516273116c":{
+      "scriptId":"u118"},
+    "8c2e9c072c8746b782f0d616cee249c9":{
+      "scriptId":"u119"},
+    "7988c3032fa24e53b8bf569bfc290aad":{
+      "scriptId":"u120"},
+    "b1ef820a45054465b02b225b60e5a130":{
+      "scriptId":"u121"},
+    "9e9cda95bb1049448e935d21e45eedcf":{
+      "scriptId":"u122"},
+    "9e708982b5994c04a9226bda93025e68":{
+      "scriptId":"u123"},
+    "07f54ef3f3e0426a8c9e6e0c54b0d936":{
+      "scriptId":"u124"}}});

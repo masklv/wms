@@ -1,0 +1,2917 @@
+﻿$axure.loadCurrentPage({
+  "url":"环形分拣线设备布局图.html",
+  "generationDate":new Date(1554888142884.11),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"sfz",
+"sfz_n"],
+  "page":{
+    "packageId":"14bf603c87654882bd9c7bf4ccd960ff",
+    "type":"Axure:Page",
+    "name":"环形分拣线设备布局图",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"606e95d38d43440e851b41895c45e6a8",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontSize":"36px",
+            "verticalAlignment":"top",
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFF3399FF},
+{
+                  "color":0xFF3399FF},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":140,
+              "y":592},
+            "size":{
+              "width":1510,
+              "height":87}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"18ec0085bb594e4482b92cbeb06a1fd5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"36px",
+                "verticalAlignment":"top",
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFF3399FF},
+{
+                      "color":0xFF3399FF},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":140,
+                  "y":592},
+                "size":{
+                  "width":1510,
+                  "height":87}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u0.png"}},
+{
+          "id":"66f28b51515a445f8e33c0b12c039803",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontSize":"28px",
+            "location":{
+              "x":220,
+              "y":668},
+            "size":{
+              "width":46,
+              "height":154}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3ce19b9811b9491787a0b1dcaaed09c9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"28px",
+                "location":{
+                  "x":220,
+                  "y":668},
+                "size":{
+                  "width":46,
+                  "height":154}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u2.png"}},
+{
+          "id":"a82a95b42a4e4da1a698c4f574175212",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFFFF9900},
+{
+                  "color":0xFFFF9900},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":50,
+              "y":844},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a02407f19dde4b3a8a57549be7daba6b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFFF9900},
+{
+                      "color":0xFFFF9900},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":50,
+                  "y":844},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u4.png"}},
+{
+          "id":"84fb3f4fa5c64644b4c84da8413ae8ec",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "location":{
+              "x":188,
+              "y":922},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b60c621a4513499eb1267864024573e7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "location":{
+                  "x":188,
+                  "y":922},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/分拣位绑板-rf/u24.png"}},
+{
+          "id":"091fc0888c21446e80f9dc20d015fd6a",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "location":{
+              "x":320,
+              "y":844},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dbb044fce43a4cad84dc0419ac0f4be5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "location":{
+                  "x":320,
+                  "y":844},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/分拣位绑板-rf/u24.png"}},
+{
+          "id":"56ce07c952a94cc293c2537419fd7fac",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFF3399FF},
+{
+                  "color":0xFF3399FF},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":218,
+              "y":828},
+            "size":{
+              "width":50,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"257beee43a894d8e9dc06c8fbde090a7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFF3399FF},
+{
+                      "color":0xFF3399FF},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":218,
+                  "y":828},
+                "size":{
+                  "width":50,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u10.png"}},
+{
+          "id":"e14cb3cac49a4224a57f1f7fd991598a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"36px",
+            "horizontalAlignment":"center",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF333333,
+              "opacity":1},
+            "location":{
+              "x":795,
+              "y":631},
+            "size":{
+              "width":200,
+              "height":42}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9c77557857a94917bc900d2513522e2a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"36px",
+                "horizontalAlignment":"center",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF333333,
+                  "opacity":1},
+                "location":{
+                  "x":795,
+                  "y":631},
+                "size":{
+                  "width":200,
+                  "height":42}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"e73d23bde18d4082a1b69a7d5eba3cf6",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":152,
+              "y":761},
+            "size":{
+              "width":68,
+              "height":46}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1b906f6e54dd4666859341d591be02b5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":152,
+                  "y":761},
+                "size":{
+                  "width":68,
+                  "height":46}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u14.png"}},
+{
+          "id":"45c2117308884421a001598eb13b1d1e",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":154,
+              "y":763},
+            "size":{
+              "width":65,
+              "height":36}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a9253ea8a30a497b8793160c6c5aa6e7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":154,
+                  "y":763},
+                "size":{
+                  "width":65,
+                  "height":36}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u16.png"}},
+{
+          "id":"a7493f1746a24a2b89eebc28e4fe5948",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontSize":"28px",
+            "location":{
+              "x":635,
+              "y":668},
+            "size":{
+              "width":46,
+              "height":154}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ddba992bc71b4a9fb958d95a5b5868d0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"28px",
+                "location":{
+                  "x":635,
+                  "y":668},
+                "size":{
+                  "width":46,
+                  "height":154}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u2.png"}},
+{
+          "id":"6d553cef4dd0449994e458f0f7d6e9aa",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFFFF9900},
+{
+                  "color":0xFFFF9900},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":465,
+              "y":844},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e30c1ae1dd7c4d2094c84e7cc46a25ab",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFFF9900},
+{
+                      "color":0xFFFF9900},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":465,
+                  "y":844},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u4.png"}},
+{
+          "id":"bcb7e1c8363847b1bfc41214201c0c34",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "location":{
+              "x":603,
+              "y":922},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"40f5da32149c4432829aa26386a50d1a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "location":{
+                  "x":603,
+                  "y":922},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/分拣位绑板-rf/u24.png"}},
+{
+          "id":"1fb26500ae004e6da59d0d79a02e2e1e",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "location":{
+              "x":735,
+              "y":844},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3e9f47fadbd94dd7a6e04f4a971f4225",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "location":{
+                  "x":735,
+                  "y":844},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/分拣位绑板-rf/u24.png"}},
+{
+          "id":"29417df72fa54cfaa5fe81087203c395",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFF3399FF},
+{
+                  "color":0xFF3399FF},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":633,
+              "y":828},
+            "size":{
+              "width":50,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"30d886a59cc54ac7989faa43e5a6876e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFF3399FF},
+{
+                      "color":0xFF3399FF},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":633,
+                  "y":828},
+                "size":{
+                  "width":50,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u10.png"}},
+{
+          "id":"2e69b6f33ff14bf7a0cc56a445940905",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":567,
+              "y":761},
+            "size":{
+              "width":68,
+              "height":46}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bb0f1cd9a7944a4380e2ad09a59d095e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":567,
+                  "y":761},
+                "size":{
+                  "width":68,
+                  "height":46}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u14.png"}},
+{
+          "id":"027ed9ade25444bcb2a1b599e58a862f",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":569,
+              "y":763},
+            "size":{
+              "width":65,
+              "height":36}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"10d5e0f8ef094050903ca5b466b7a4af",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":569,
+                  "y":763},
+                "size":{
+                  "width":65,
+                  "height":36}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u16.png"}},
+{
+          "id":"344be667300743b593fac8e0fb6787fe",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontSize":"28px",
+            "location":{
+              "x":1065,
+              "y":668},
+            "size":{
+              "width":46,
+              "height":154}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"eaeabd6263d24532bd814adc12971e6a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"28px",
+                "location":{
+                  "x":1065,
+                  "y":668},
+                "size":{
+                  "width":46,
+                  "height":154}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u2.png"}},
+{
+          "id":"5e16e15919174119a42a6dfec4aa5dfb",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFFFF9900},
+{
+                  "color":0xFFFF9900},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":895,
+              "y":844},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e153769b03614ee98762aad751876cff",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFFF9900},
+{
+                      "color":0xFFFF9900},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":895,
+                  "y":844},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u4.png"}},
+{
+          "id":"40f7bdb9919a4f8bbc546b3721fb038e",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "location":{
+              "x":1033,
+              "y":922},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e4c770fffce54da0a8c0dafdc7977f47",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "location":{
+                  "x":1033,
+                  "y":922},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/分拣位绑板-rf/u24.png"}},
+{
+          "id":"ea485fdf147c48d2aceeea95fd1f7aaa",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "location":{
+              "x":1165,
+              "y":844},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a14c72c1189343ff9b4e23992c3d9115",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "location":{
+                  "x":1165,
+                  "y":844},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/分拣位绑板-rf/u24.png"}},
+{
+          "id":"1d881dcc013448c785121656490919df",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFF3399FF},
+{
+                  "color":0xFF3399FF},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":1063,
+              "y":828},
+            "size":{
+              "width":50,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c0ecca86644d4899a08287b912f7cf0c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFF3399FF},
+{
+                      "color":0xFF3399FF},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":1063,
+                  "y":828},
+                "size":{
+                  "width":50,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u10.png"}},
+{
+          "id":"e1677e497ef3412982c927bad03f396a",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":997,
+              "y":761},
+            "size":{
+              "width":68,
+              "height":46}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4a1668e778ef47bebbe29d72b4b8a9d9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":997,
+                  "y":761},
+                "size":{
+                  "width":68,
+                  "height":46}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u14.png"}},
+{
+          "id":"d64c092a572448caaa1323d2f34f0734",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":999,
+              "y":763},
+            "size":{
+              "width":65,
+              "height":36}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e7ef362fed5f41daac9bf997e7fc7601",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":999,
+                  "y":763},
+                "size":{
+                  "width":65,
+                  "height":36}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u16.png"}},
+{
+          "id":"b9f7473c16ad4b8b9d4b3f998fc87e1b",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontSize":"28px",
+            "location":{
+              "x":1480,
+              "y":668},
+            "size":{
+              "width":46,
+              "height":154}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cdfe85841a254b4b809fb0cf9fc55ac9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"28px",
+                "location":{
+                  "x":1480,
+                  "y":668},
+                "size":{
+                  "width":46,
+                  "height":154}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u2.png"}},
+{
+          "id":"cfc78cae5358408b8ff4a1725179d364",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFFFF9900},
+{
+                  "color":0xFFFF9900},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":1310,
+              "y":844},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3716c83deed14c4e9cbbc6909bb3bfe9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFFF9900},
+{
+                      "color":0xFFFF9900},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":1310,
+                  "y":844},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u4.png"}},
+{
+          "id":"48f141917a054077affaccabc3948c0d",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "location":{
+              "x":1448,
+              "y":922},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3c1e913d906441d0bb797d1b9264386c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "location":{
+                  "x":1448,
+                  "y":922},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/分拣位绑板-rf/u24.png"}},
+{
+          "id":"f8c7b183820e42c1b80dc882c57f4c9a",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "location":{
+              "x":1580,
+              "y":844},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dc982abbab0446e78f3beaa50748d54c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "location":{
+                  "x":1580,
+                  "y":844},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/分拣位绑板-rf/u24.png"}},
+{
+          "id":"2fa76c7748dd4af6b729048ae722ff90",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontSize":"28px",
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFF3399FF},
+{
+                  "color":0xFF3399FF},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":1448,
+              "y":832},
+            "size":{
+              "width":104,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"24379640dcca48439608be4982995a7f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"28px",
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFF3399FF},
+{
+                      "color":0xFF3399FF},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":1448,
+                  "y":832},
+                "size":{
+                  "width":104,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u54.png"}},
+{
+          "id":"891a95544247480e8bbfdf1d5f29b669",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontSize":"28px",
+            "location":{
+              "x":222,
+              "y":447},
+            "size":{
+              "width":46,
+              "height":154}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6cdcf6a4a361441db74211ce4f6b3297",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"28px",
+                "location":{
+                  "x":222,
+                  "y":447},
+                "size":{
+                  "width":46,
+                  "height":154}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u2.png"}},
+{
+          "id":"0635432f847348f08fa3aea2e3b446f0",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":268,
+              "y":445},
+            "size":{
+              "width":68,
+              "height":46}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2b1797f851fa40dd82b297fb4bbf7897",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":268,
+                  "y":445},
+                "size":{
+                  "width":68,
+                  "height":46}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u14.png"}},
+{
+          "id":"134f1e75a09a4d169247008dd8c22f15",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":270,
+              "y":447},
+            "size":{
+              "width":65,
+              "height":36}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3dc1bd20750a4e88b4fbeb6fe6b20e7c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":270,
+                  "y":447},
+                "size":{
+                  "width":65,
+                  "height":36}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u16.png"}},
+{
+          "id":"9bb9a0a59a2348e3829735b569db4b60",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontSize":"28px",
+            "location":{
+              "x":637,
+              "y":447},
+            "size":{
+              "width":46,
+              "height":154}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"77cccb13d83b46c1b82d46eb3d0a3168",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"28px",
+                "location":{
+                  "x":637,
+                  "y":447},
+                "size":{
+                  "width":46,
+                  "height":154}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u2.png"}},
+{
+          "id":"0b821b6d370c4e848027cf35f538bf6b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":683,
+              "y":445},
+            "size":{
+              "width":68,
+              "height":46}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"85cb63c0df4843f0b28d998af45b9e03",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":683,
+                  "y":445},
+                "size":{
+                  "width":68,
+                  "height":46}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u14.png"}},
+{
+          "id":"d94f978396364d5e8d896d85fd01ea10",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":685,
+              "y":447},
+            "size":{
+              "width":65,
+              "height":36}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d1dcabd1854a4aefb29caf511f5cf216",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":685,
+                  "y":447},
+                "size":{
+                  "width":65,
+                  "height":36}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u16.png"}},
+{
+          "id":"e2d9173808f94f09986f290a7abe21dd",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontSize":"28px",
+            "location":{
+              "x":1067,
+              "y":447},
+            "size":{
+              "width":46,
+              "height":154}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"eb9184ed36f24814924b126733c41ad9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"28px",
+                "location":{
+                  "x":1067,
+                  "y":447},
+                "size":{
+                  "width":46,
+                  "height":154}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u2.png"}},
+{
+          "id":"e7c65bf6af4a4f64811b9ff4e7b7ead3",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1113,
+              "y":445},
+            "size":{
+              "width":68,
+              "height":46}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"92c0f7ddd1f142f0b48affbf2d1e5644",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":1113,
+                  "y":445},
+                "size":{
+                  "width":68,
+                  "height":46}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u14.png"}},
+{
+          "id":"15c1ef0cec994275831c7c19dae6a747",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1115,
+              "y":447},
+            "size":{
+              "width":65,
+              "height":36}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fe103608b9fd40c1822b5f13079dfdec",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":1115,
+                  "y":447},
+                "size":{
+                  "width":65,
+                  "height":36}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u16.png"}},
+{
+          "id":"3a6272caa6a443ceb32d8ea0546a7bcf",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontSize":"28px",
+            "location":{
+              "x":1482,
+              "y":447},
+            "size":{
+              "width":46,
+              "height":154}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"402aa5fd783b41ff9dc4e82075832873",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"28px",
+                "location":{
+                  "x":1482,
+                  "y":447},
+                "size":{
+                  "width":46,
+                  "height":154}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u2.png"}},
+{
+          "id":"d19ee632e8414f5fa9617ca3f0d3d151",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1528,
+              "y":445},
+            "size":{
+              "width":68,
+              "height":46}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8d7ca2afce3e449098076b45b2e2a5ab",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":1528,
+                  "y":445},
+                "size":{
+                  "width":68,
+                  "height":46}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u14.png"}},
+{
+          "id":"84ef6cc64cdb41dca5ada6343597a98a",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":1530,
+              "y":447},
+            "size":{
+              "width":65,
+              "height":36}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a12bedfc6f894d26b0cf3fdeb3d38b6d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":1530,
+                  "y":447},
+                "size":{
+                  "width":65,
+                  "height":36}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u16.png"}},
+{
+          "id":"35610fdaa8a1434a97e09b9a7d1f203b",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFFFF9900},
+{
+                  "color":0xFFFF9900},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":50,
+              "y":370},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0487b6e45449461ca222882eaf27a8a4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFFF9900},
+{
+                      "color":0xFFFF9900},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":50,
+                  "y":370},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u4.png"}},
+{
+          "id":"f617f2ef86424aa1b6f55ee90f6af018",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "location":{
+              "x":188,
+              "y":280},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cede8d044331485caa958c97ed8e864c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "location":{
+                  "x":188,
+                  "y":280},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/分拣位绑板-rf/u24.png"}},
+{
+          "id":"fb4767b9b9be4a9fb73fb97aaaba3789",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "location":{
+              "x":320,
+              "y":370},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c3225d721c074120a556c82b8af749de",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "location":{
+                  "x":320,
+                  "y":370},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/分拣位绑板-rf/u24.png"}},
+{
+          "id":"cf393d27d30341738d70ad825424b427",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFF3399FF},
+{
+                  "color":0xFF3399FF},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":218,
+              "y":354},
+            "size":{
+              "width":50,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1cfec3b9bafd4c50950992a26e8ce32b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFF3399FF},
+{
+                      "color":0xFF3399FF},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":218,
+                  "y":354},
+                "size":{
+                  "width":50,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u10.png"}},
+{
+          "id":"e20a195670764e1db2e7d21fd6c231ab",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFFFF9900},
+{
+                  "color":0xFFFF9900},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":465,
+              "y":370},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f4d524c30aa54f6e96c3f443ac5adebc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFFF9900},
+{
+                      "color":0xFFFF9900},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":465,
+                  "y":370},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u4.png"}},
+{
+          "id":"1bfc4b0fd33c4340b5757f8e419c5ff0",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "location":{
+              "x":603,
+              "y":280},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7976abb8deae4e5faa7fc1f6b43f96eb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "location":{
+                  "x":603,
+                  "y":280},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/分拣位绑板-rf/u24.png"}},
+{
+          "id":"ceb8979a81154321829d14aac14c70d1",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "location":{
+              "x":735,
+              "y":370},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cf8841c7557540948207373d19cf534c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "location":{
+                  "x":735,
+                  "y":370},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/分拣位绑板-rf/u24.png"}},
+{
+          "id":"857e05b043e549289af82e82291ceb49",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFF3399FF},
+{
+                  "color":0xFF3399FF},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":633,
+              "y":354},
+            "size":{
+              "width":50,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"532e4a7815b343de82fb8cb28ef089fd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFF3399FF},
+{
+                      "color":0xFF3399FF},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":633,
+                  "y":354},
+                "size":{
+                  "width":50,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u10.png"}},
+{
+          "id":"439a482c4e054d6da28f14fe6ae98b90",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFFFF9900},
+{
+                  "color":0xFFFF9900},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":895,
+              "y":370},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c93452da191e44b9ad1ab99c87faee1e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFFF9900},
+{
+                      "color":0xFFFF9900},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":895,
+                  "y":370},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u4.png"}},
+{
+          "id":"f64c2fb8e50b49ccb06f5980f75132b0",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "location":{
+              "x":1033,
+              "y":280},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"71a6042cd59044239167e290ec94fd83",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "location":{
+                  "x":1033,
+                  "y":280},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/分拣位绑板-rf/u24.png"}},
+{
+          "id":"43213ec242194c43ab123c3694058bb6",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "location":{
+              "x":1165,
+              "y":370},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ccc16c9316c74848a3a9db0c2ef48f15",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "location":{
+                  "x":1165,
+                  "y":370},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/分拣位绑板-rf/u24.png"}},
+{
+          "id":"f4dc2e0ab4074388b1ac01b40e802a2a",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFF3399FF},
+{
+                  "color":0xFF3399FF},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":1063,
+              "y":354},
+            "size":{
+              "width":50,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a73b101b8ea34a9d8cf5c19f0540446b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFF3399FF},
+{
+                      "color":0xFF3399FF},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":1063,
+                  "y":354},
+                "size":{
+                  "width":50,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u10.png"}},
+{
+          "id":"5323651af6144700a964944293fc8a2d",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFFFF9900},
+{
+                  "color":0xFFFF9900},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":1310,
+              "y":370},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a6894c9027bb4f688e03c0e72dc65774",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFFF9900},
+{
+                      "color":0xFFFF9900},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":1310,
+                  "y":370},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u4.png"}},
+{
+          "id":"3c69e9e6e94647ea86fcffe1f4279479",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "location":{
+              "x":1448,
+              "y":280},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"022a245cfeb144c692c211f5bb11424a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "location":{
+                  "x":1448,
+                  "y":280},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/分拣位绑板-rf/u24.png"}},
+{
+          "id":"00f716e11b454f1287b4074ba78264f2",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "verticalAlignment":"top",
+            "location":{
+              "x":1580,
+              "y":370},
+            "size":{
+              "width":110,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0281433134fd4edbb571df6a6b8f1025",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "verticalAlignment":"top",
+                "location":{
+                  "x":1580,
+                  "y":370},
+                "size":{
+                  "width":110,
+                  "height":70}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/分拣位绑板-rf/u24.png"}},
+{
+          "id":"d74c10837e924deab966bbabaf4f5bfe",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFF3399FF},
+{
+                  "color":0xFF3399FF},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":1478,
+              "y":354},
+            "size":{
+              "width":50,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"06a2615092e7437fb7166be33e36631e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFF3399FF},
+{
+                      "color":0xFF3399FF},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":1478,
+                  "y":354},
+                "size":{
+                  "width":50,
+                  "height":80}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u10.png"}},
+{
+          "id":"cf8d4ccf71724eaaa6736547b215cccf",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":644,
+              "y":2},
+            "size":{
+              "width":440,
+              "height":276}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"292f9dbb84d643518e971834473c2dc9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":644,
+                  "y":2},
+                "size":{
+                  "width":440,
+                  "height":276}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u14.png"}},
+{
+          "id":"d708a7aacef3433aa5176151fa403513",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":657,
+              "y":13},
+            "size":{
+              "width":420,
+              "height":219}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"230a06b736c445aab4db4468425c04f0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":657,
+                  "y":13},
+                "size":{
+                  "width":420,
+                  "height":219}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u16.png"}},
+{
+          "id":"12eccbfba5e14032927a82230d56a19e",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":723,
+              "y":445},
+            "borderWidth":"5",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF0000FF},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0051d91eab0446688164e3a4ba535998",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":723,
+                  "y":445},
+                "borderWidth":"5",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF},
+                "linePattern":"dashed"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"20ef6eb2eefa453a911bcf99d57418b7",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":680,
+              "y":447},
+            "borderWidth":"5",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF0000FF},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"49fb398b09fc4aeb900c18d5dd65dcf9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":680,
+                  "y":447},
+                "borderWidth":"5",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF},
+                "linePattern":"dashed"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"ea55319f3780449ba53b6b5f349e89a9",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontSize":"25px",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF333333,
+              "opacity":1},
+            "location":{
+              "x":10,
+              "y":82},
+            "size":{
+              "width":288,
+              "height":130}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8714aa09a6f4453ea1e9085218ea341d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontSize":"25px",
+                "fontWeight":"700",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF333333,
+                  "opacity":1},
+                "location":{
+                  "x":10,
+                  "y":82},
+                "size":{
+                  "width":288,
+                  "height":130}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"bd11cee7275a4b559f3febbf0a3531af",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontSize":"25px",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF333333,
+              "opacity":1},
+            "location":{
+              "x":1094,
+              "y":62},
+            "size":{
+              "width":470,
+              "height":180}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"49966e79b8c7435cb8a6d39779cfff88",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontSize":"25px",
+                "fontWeight":"700",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF333333,
+                  "opacity":1},
+                "location":{
+                  "x":1094,
+                  "y":62},
+                "size":{
+                  "width":470,
+                  "height":180}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"cb0bba04f2dd4f818373461afcfc88d4",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":298,
+              "y":13},
+            "size":{
+              "width":312,
+              "height":247}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"873c51afb2d247238d34990b5a09bdd4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":298,
+                  "y":13},
+                "size":{
+                  "width":312,
+                  "height":247}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/环形分拣线设备布局图/u124.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "606e95d38d43440e851b41895c45e6a8":{
+      "scriptId":"u0"},
+    "18ec0085bb594e4482b92cbeb06a1fd5":{
+      "scriptId":"u1"},
+    "66f28b51515a445f8e33c0b12c039803":{
+      "scriptId":"u2"},
+    "3ce19b9811b9491787a0b1dcaaed09c9":{
+      "scriptId":"u3"},
+    "a82a95b42a4e4da1a698c4f574175212":{
+      "scriptId":"u4"},
+    "a02407f19dde4b3a8a57549be7daba6b":{
+      "scriptId":"u5"},
+    "84fb3f4fa5c64644b4c84da8413ae8ec":{
+      "scriptId":"u6"},
+    "b60c621a4513499eb1267864024573e7":{
+      "scriptId":"u7"},
+    "091fc0888c21446e80f9dc20d015fd6a":{
+      "scriptId":"u8"},
+    "dbb044fce43a4cad84dc0419ac0f4be5":{
+      "scriptId":"u9"},
+    "56ce07c952a94cc293c2537419fd7fac":{
+      "scriptId":"u10"},
+    "257beee43a894d8e9dc06c8fbde090a7":{
+      "scriptId":"u11"},
+    "e14cb3cac49a4224a57f1f7fd991598a":{
+      "scriptId":"u12"},
+    "9c77557857a94917bc900d2513522e2a":{
+      "scriptId":"u13"},
+    "e73d23bde18d4082a1b69a7d5eba3cf6":{
+      "scriptId":"u14"},
+    "1b906f6e54dd4666859341d591be02b5":{
+      "scriptId":"u15"},
+    "45c2117308884421a001598eb13b1d1e":{
+      "scriptId":"u16"},
+    "a9253ea8a30a497b8793160c6c5aa6e7":{
+      "scriptId":"u17"},
+    "a7493f1746a24a2b89eebc28e4fe5948":{
+      "scriptId":"u18"},
+    "ddba992bc71b4a9fb958d95a5b5868d0":{
+      "scriptId":"u19"},
+    "6d553cef4dd0449994e458f0f7d6e9aa":{
+      "scriptId":"u20"},
+    "e30c1ae1dd7c4d2094c84e7cc46a25ab":{
+      "scriptId":"u21"},
+    "bcb7e1c8363847b1bfc41214201c0c34":{
+      "scriptId":"u22"},
+    "40f5da32149c4432829aa26386a50d1a":{
+      "scriptId":"u23"},
+    "1fb26500ae004e6da59d0d79a02e2e1e":{
+      "scriptId":"u24"},
+    "3e9f47fadbd94dd7a6e04f4a971f4225":{
+      "scriptId":"u25"},
+    "29417df72fa54cfaa5fe81087203c395":{
+      "scriptId":"u26"},
+    "30d886a59cc54ac7989faa43e5a6876e":{
+      "scriptId":"u27"},
+    "2e69b6f33ff14bf7a0cc56a445940905":{
+      "scriptId":"u28"},
+    "bb0f1cd9a7944a4380e2ad09a59d095e":{
+      "scriptId":"u29"},
+    "027ed9ade25444bcb2a1b599e58a862f":{
+      "scriptId":"u30"},
+    "10d5e0f8ef094050903ca5b466b7a4af":{
+      "scriptId":"u31"},
+    "344be667300743b593fac8e0fb6787fe":{
+      "scriptId":"u32"},
+    "eaeabd6263d24532bd814adc12971e6a":{
+      "scriptId":"u33"},
+    "5e16e15919174119a42a6dfec4aa5dfb":{
+      "scriptId":"u34"},
+    "e153769b03614ee98762aad751876cff":{
+      "scriptId":"u35"},
+    "40f7bdb9919a4f8bbc546b3721fb038e":{
+      "scriptId":"u36"},
+    "e4c770fffce54da0a8c0dafdc7977f47":{
+      "scriptId":"u37"},
+    "ea485fdf147c48d2aceeea95fd1f7aaa":{
+      "scriptId":"u38"},
+    "a14c72c1189343ff9b4e23992c3d9115":{
+      "scriptId":"u39"},
+    "1d881dcc013448c785121656490919df":{
+      "scriptId":"u40"},
+    "c0ecca86644d4899a08287b912f7cf0c":{
+      "scriptId":"u41"},
+    "e1677e497ef3412982c927bad03f396a":{
+      "scriptId":"u42"},
+    "4a1668e778ef47bebbe29d72b4b8a9d9":{
+      "scriptId":"u43"},
+    "d64c092a572448caaa1323d2f34f0734":{
+      "scriptId":"u44"},
+    "e7ef362fed5f41daac9bf997e7fc7601":{
+      "scriptId":"u45"},
+    "b9f7473c16ad4b8b9d4b3f998fc87e1b":{
+      "scriptId":"u46"},
+    "cdfe85841a254b4b809fb0cf9fc55ac9":{
+      "scriptId":"u47"},
+    "cfc78cae5358408b8ff4a1725179d364":{
+      "scriptId":"u48"},
+    "3716c83deed14c4e9cbbc6909bb3bfe9":{
+      "scriptId":"u49"},
+    "48f141917a054077affaccabc3948c0d":{
+      "scriptId":"u50"},
+    "3c1e913d906441d0bb797d1b9264386c":{
+      "scriptId":"u51"},
+    "f8c7b183820e42c1b80dc882c57f4c9a":{
+      "scriptId":"u52"},
+    "dc982abbab0446e78f3beaa50748d54c":{
+      "scriptId":"u53"},
+    "2fa76c7748dd4af6b729048ae722ff90":{
+      "scriptId":"u54"},
+    "24379640dcca48439608be4982995a7f":{
+      "scriptId":"u55"},
+    "891a95544247480e8bbfdf1d5f29b669":{
+      "scriptId":"u56"},
+    "6cdcf6a4a361441db74211ce4f6b3297":{
+      "scriptId":"u57"},
+    "0635432f847348f08fa3aea2e3b446f0":{
+      "scriptId":"u58"},
+    "2b1797f851fa40dd82b297fb4bbf7897":{
+      "scriptId":"u59"},
+    "134f1e75a09a4d169247008dd8c22f15":{
+      "scriptId":"u60"},
+    "3dc1bd20750a4e88b4fbeb6fe6b20e7c":{
+      "scriptId":"u61"},
+    "9bb9a0a59a2348e3829735b569db4b60":{
+      "scriptId":"u62"},
+    "77cccb13d83b46c1b82d46eb3d0a3168":{
+      "scriptId":"u63"},
+    "0b821b6d370c4e848027cf35f538bf6b":{
+      "scriptId":"u64"},
+    "85cb63c0df4843f0b28d998af45b9e03":{
+      "scriptId":"u65"},
+    "d94f978396364d5e8d896d85fd01ea10":{
+      "scriptId":"u66"},
+    "d1dcabd1854a4aefb29caf511f5cf216":{
+      "scriptId":"u67"},
+    "e2d9173808f94f09986f290a7abe21dd":{
+      "scriptId":"u68"},
+    "eb9184ed36f24814924b126733c41ad9":{
+      "scriptId":"u69"},
+    "e7c65bf6af4a4f64811b9ff4e7b7ead3":{
+      "scriptId":"u70"},
+    "92c0f7ddd1f142f0b48affbf2d1e5644":{
+      "scriptId":"u71"},
+    "15c1ef0cec994275831c7c19dae6a747":{
+      "scriptId":"u72"},
+    "fe103608b9fd40c1822b5f13079dfdec":{
+      "scriptId":"u73"},
+    "3a6272caa6a443ceb32d8ea0546a7bcf":{
+      "scriptId":"u74"},
+    "402aa5fd783b41ff9dc4e82075832873":{
+      "scriptId":"u75"},
+    "d19ee632e8414f5fa9617ca3f0d3d151":{
+      "scriptId":"u76"},
+    "8d7ca2afce3e449098076b45b2e2a5ab":{
+      "scriptId":"u77"},
+    "84ef6cc64cdb41dca5ada6343597a98a":{
+      "scriptId":"u78"},
+    "a12bedfc6f894d26b0cf3fdeb3d38b6d":{
+      "scriptId":"u79"},
+    "35610fdaa8a1434a97e09b9a7d1f203b":{
+      "scriptId":"u80"},
+    "0487b6e45449461ca222882eaf27a8a4":{
+      "scriptId":"u81"},
+    "f617f2ef86424aa1b6f55ee90f6af018":{
+      "scriptId":"u82"},
+    "cede8d044331485caa958c97ed8e864c":{
+      "scriptId":"u83"},
+    "fb4767b9b9be4a9fb73fb97aaaba3789":{
+      "scriptId":"u84"},
+    "c3225d721c074120a556c82b8af749de":{
+      "scriptId":"u85"},
+    "cf393d27d30341738d70ad825424b427":{
+      "scriptId":"u86"},
+    "1cfec3b9bafd4c50950992a26e8ce32b":{
+      "scriptId":"u87"},
+    "e20a195670764e1db2e7d21fd6c231ab":{
+      "scriptId":"u88"},
+    "f4d524c30aa54f6e96c3f443ac5adebc":{
+      "scriptId":"u89"},
+    "1bfc4b0fd33c4340b5757f8e419c5ff0":{
+      "scriptId":"u90"},
+    "7976abb8deae4e5faa7fc1f6b43f96eb":{
+      "scriptId":"u91"},
+    "ceb8979a81154321829d14aac14c70d1":{
+      "scriptId":"u92"},
+    "cf8841c7557540948207373d19cf534c":{
+      "scriptId":"u93"},
+    "857e05b043e549289af82e82291ceb49":{
+      "scriptId":"u94"},
+    "532e4a7815b343de82fb8cb28ef089fd":{
+      "scriptId":"u95"},
+    "439a482c4e054d6da28f14fe6ae98b90":{
+      "scriptId":"u96"},
+    "c93452da191e44b9ad1ab99c87faee1e":{
+      "scriptId":"u97"},
+    "f64c2fb8e50b49ccb06f5980f75132b0":{
+      "scriptId":"u98"},
+    "71a6042cd59044239167e290ec94fd83":{
+      "scriptId":"u99"},
+    "43213ec242194c43ab123c3694058bb6":{
+      "scriptId":"u100"},
+    "ccc16c9316c74848a3a9db0c2ef48f15":{
+      "scriptId":"u101"},
+    "f4dc2e0ab4074388b1ac01b40e802a2a":{
+      "scriptId":"u102"},
+    "a73b101b8ea34a9d8cf5c19f0540446b":{
+      "scriptId":"u103"},
+    "5323651af6144700a964944293fc8a2d":{
+      "scriptId":"u104"},
+    "a6894c9027bb4f688e03c0e72dc65774":{
+      "scriptId":"u105"},
+    "3c69e9e6e94647ea86fcffe1f4279479":{
+      "scriptId":"u106"},
+    "022a245cfeb144c692c211f5bb11424a":{
+      "scriptId":"u107"},
+    "00f716e11b454f1287b4074ba78264f2":{
+      "scriptId":"u108"},
+    "0281433134fd4edbb571df6a6b8f1025":{
+      "scriptId":"u109"},
+    "d74c10837e924deab966bbabaf4f5bfe":{
+      "scriptId":"u110"},
+    "06a2615092e7437fb7166be33e36631e":{
+      "scriptId":"u111"},
+    "cf8d4ccf71724eaaa6736547b215cccf":{
+      "scriptId":"u112"},
+    "292f9dbb84d643518e971834473c2dc9":{
+      "scriptId":"u113"},
+    "d708a7aacef3433aa5176151fa403513":{
+      "scriptId":"u114"},
+    "230a06b736c445aab4db4468425c04f0":{
+      "scriptId":"u115"},
+    "12eccbfba5e14032927a82230d56a19e":{
+      "scriptId":"u116"},
+    "0051d91eab0446688164e3a4ba535998":{
+      "scriptId":"u117"},
+    "20ef6eb2eefa453a911bcf99d57418b7":{
+      "scriptId":"u118"},
+    "49fb398b09fc4aeb900c18d5dd65dcf9":{
+      "scriptId":"u119"},
+    "ea55319f3780449ba53b6b5f349e89a9":{
+      "scriptId":"u120"},
+    "8714aa09a6f4453ea1e9085218ea341d":{
+      "scriptId":"u121"},
+    "bd11cee7275a4b559f3febbf0a3531af":{
+      "scriptId":"u122"},
+    "49966e79b8c7435cb8a6d39779cfff88":{
+      "scriptId":"u123"},
+    "cb0bba04f2dd4f818373461afcfc88d4":{
+      "scriptId":"u124"},
+    "873c51afb2d247238d34990b5a09bdd4":{
+      "scriptId":"u125"}}});

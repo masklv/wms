@@ -1,0 +1,600 @@
+﻿$axure.loadCurrentPage({
+  "url":"车辆离台-无接口.html",
+  "generationDate":new Date(1554888134457.64),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"sfz",
+"sfz_n"],
+  "page":{
+    "packageId":"4528e7eb034646fc876b68920865e1bc",
+    "type":"Axure:Page",
+    "name":"车辆离台-无接口",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"319ee5a816cf4674b736d6940cd28ee3",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "horizontalAlignment":"center",
+            "verticalAlignment":"bottom",
+            "location":{
+              "x":19,
+              "y":57},
+            "size":{
+              "width":70,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6dbff1e857324009bdea123961a7c9a3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"bottom",
+                "location":{
+                  "x":19,
+                  "y":57},
+                "size":{
+                  "width":70,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"e9b57a397a5a43a6bfa6959dca0a9bf4",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "horizontalAlignment":"center",
+            "location":{
+              "x":109,
+              "y":52},
+            "size":{
+              "width":180,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"8e62ddab08be4640be5799ca9d4c291a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "horizontalAlignment":"center",
+            "verticalAlignment":"bottom",
+            "location":{
+              "x":19,
+              "y":111},
+            "size":{
+              "width":70,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d9ff76e438a041f4bed9f4c9f7266606",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"bottom",
+                "location":{
+                  "x":19,
+                  "y":111},
+                "size":{
+                  "width":70,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"eb8e52419f934986b24e22615bb4d2a6",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":136,
+              "y":180},
+            "size":{
+              "width":92,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"d10c99f43825489abfab83071227ed87",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFF6600},
+            "size":{
+              "width":305,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"46620dd006884614aff9390d1f700790",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFF6600},
+                "size":{
+                  "width":305,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/分拣位绑板-rf/u6.png"}},
+{
+          "id":"6c3d6b7ec612463fb0790f211c0b340a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Black Oblique', 'Arial'",
+            "fontSize":"16px",
+            "fontWeight":"900",
+            "fontStyle":"oblique",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":4,
+              "y":5},
+            "size":{
+              "width":120,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8c62fd775bbc41d2825870e655bc8ef9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Black Oblique', 'Arial'",
+                "fontSize":"16px",
+                "fontWeight":"900",
+                "fontStyle":"oblique",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":4,
+                  "y":5},
+                "size":{
+                  "width":120,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"11b8a76dc2164ff28ca99da801f783ae",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":124,
+              "y":7},
+            "size":{
+              "width":185,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"56e404c324de43379ca5a260e6f02551",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "fontWeight":"700",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":124,
+                  "y":7},
+                "size":{
+                  "width":185,
+                  "height":18}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f080258b93fe4b0fa567515ce5d43118",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFF6600},
+            "location":{
+              "x":1,
+              "y":451},
+            "size":{
+              "width":308,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"de87266459ed43d490e79eae3a71ebe7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFF6600},
+                "location":{
+                  "x":1,
+                  "y":451},
+                "size":{
+                  "width":308,
+                  "height":30}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/分拣位绑板-rf/u12.png"}},
+{
+          "id":"2543af2d605344d7b69f3af10f30e340",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Black Oblique', 'Arial'",
+            "fontSize":"16px",
+            "fontWeight":"900",
+            "fontStyle":"oblique",
+            "horizontalAlignment":"right",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":144,
+              "y":457},
+            "size":{
+              "width":162,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e091e7f076f84ca3b5d83c5a94375743",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Black Oblique', 'Arial'",
+                "fontSize":"16px",
+                "fontWeight":"900",
+                "fontStyle":"oblique",
+                "horizontalAlignment":"right",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":144,
+                  "y":457},
+                "size":{
+                  "width":162,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"b92250f6d4884177a015d3f3c4c1297f",
+          "label":"车号码",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "horizontalAlignment":"center",
+            "location":{
+              "x":109,
+              "y":111},
+            "size":{
+              "width":180,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"a545fe9afce44014845b47092ae33b20",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFFFFCC99},
+{
+                  "color":0xFFFFCC99},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":374,
+              "y":47},
+            "size":{
+              "width":126,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"27264be2aae44f71884cf04c845670ea",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFFFCC99},
+{
+                      "color":0xFFFFCC99},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":374,
+                  "y":47},
+                "size":{
+                  "width":126,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/车辆离台-无接口/u17.png"}},
+{
+          "id":"d9e973d8193e4e7ab82d965e4caeb3a9",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":288,
+              "y":66},
+            "borderWidth":"2",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7de765aef4a24ca49e0d876bcdada04a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":288,
+                  "y":66},
+                "borderWidth":"2",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000},
+                "linePattern":"dashed"},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"6dede6b145d747f89b56ac4255c1e4f9",
+          "label":"",
+          "type":"flowShape",
+          "styleType":"flowShape",
+          "visible":true,
+          "style":{
+            "fill":{
+              "fillType":"linearGradient",
+              "colors":[{
+                  "color":0xFFFFCC99},
+{
+                  "color":0xFFFFCC99},
+{
+                  "color":0xFFE4E4E4},
+{
+                  "color":0xFFE4E4E4}]},
+            "location":{
+              "x":374,
+              "y":101},
+            "size":{
+              "width":126,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a88fd6fe20f34886b96ccf7117f9d1a8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fill":{
+                  "fillType":"linearGradient",
+                  "colors":[{
+                      "color":0xFFFFCC99},
+{
+                      "color":0xFFFFCC99},
+{
+                      "color":0xFFE4E4E4},
+{
+                      "color":0xFFE4E4E4}]},
+                "location":{
+                  "x":374,
+                  "y":101},
+                "size":{
+                  "width":126,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/车辆离台-无接口/u17.png"}},
+{
+          "id":"fd50ce0ba4f841fdacca1d92c044f5ab",
+          "label":"",
+          "type":"connector",
+          "styleType":"connector",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":288,
+              "y":120},
+            "borderWidth":"2",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4cfbca2acbee4f25abce0769c2b26402",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":288,
+                  "y":120},
+                "borderWidth":"2",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000},
+                "linePattern":"dashed"},
+              "adaptiveStyles":{
+}}]}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "319ee5a816cf4674b736d6940cd28ee3":{
+      "scriptId":"u0"},
+    "6dbff1e857324009bdea123961a7c9a3":{
+      "scriptId":"u1"},
+    "e9b57a397a5a43a6bfa6959dca0a9bf4":{
+      "scriptId":"u2"},
+    "8e62ddab08be4640be5799ca9d4c291a":{
+      "scriptId":"u3"},
+    "d9ff76e438a041f4bed9f4c9f7266606":{
+      "scriptId":"u4"},
+    "eb8e52419f934986b24e22615bb4d2a6":{
+      "scriptId":"u5"},
+    "d10c99f43825489abfab83071227ed87":{
+      "scriptId":"u6"},
+    "46620dd006884614aff9390d1f700790":{
+      "scriptId":"u7"},
+    "6c3d6b7ec612463fb0790f211c0b340a":{
+      "scriptId":"u8"},
+    "8c62fd775bbc41d2825870e655bc8ef9":{
+      "scriptId":"u9"},
+    "11b8a76dc2164ff28ca99da801f783ae":{
+      "scriptId":"u10"},
+    "56e404c324de43379ca5a260e6f02551":{
+      "scriptId":"u11"},
+    "f080258b93fe4b0fa567515ce5d43118":{
+      "scriptId":"u12"},
+    "de87266459ed43d490e79eae3a71ebe7":{
+      "scriptId":"u13"},
+    "2543af2d605344d7b69f3af10f30e340":{
+      "scriptId":"u14"},
+    "e091e7f076f84ca3b5d83c5a94375743":{
+      "scriptId":"u15"},
+    "b92250f6d4884177a015d3f3c4c1297f":{
+      "scriptId":"u16"},
+    "a545fe9afce44014845b47092ae33b20":{
+      "scriptId":"u17"},
+    "27264be2aae44f71884cf04c845670ea":{
+      "scriptId":"u18"},
+    "d9e973d8193e4e7ab82d965e4caeb3a9":{
+      "scriptId":"u19"},
+    "7de765aef4a24ca49e0d876bcdada04a":{
+      "scriptId":"u20"},
+    "6dede6b145d747f89b56ac4255c1e4f9":{
+      "scriptId":"u21"},
+    "a88fd6fe20f34886b96ccf7117f9d1a8":{
+      "scriptId":"u22"},
+    "fd50ce0ba4f841fdacca1d92c044f5ab":{
+      "scriptId":"u23"},
+    "4cfbca2acbee4f25abce0769c2b26402":{
+      "scriptId":"u24"}}});
